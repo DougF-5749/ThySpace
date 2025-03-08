@@ -1,16 +1,15 @@
 # 🏰 ThySpace 🏰 
 
 ## Overview
-**ThySpace** is a medieval-themed social networking web application inspired by Facebook. It was built during a collaborative project at [Makers](https://makers.tech/) as part of a software engineering bootcamp. The goal was to apply full-stack development principles using the MERN stack in a fun, playful environment.
+
+ThySpace is a medieval-themed social networking web application inspired by Facebook. We developed it during our time at [Makers](https://makers.tech/) as part of a collaborative bootcamp project. This was the **first time we tackled JavaScript and React** after just two weeks of learning the basics of both. 
+
+Our primary goal was to explore core web development concepts (routing, data models, user authentication, etc.) and sharpen our React skills by building a fun, fully functional web application.
 
 ## Context and Motivation
-During the bootcamp, we aimed to sharpen our skills in building a complete web application from scratch. We wanted to mimic a familiar social network design (like Facebook) to solidify our understanding of concepts such as:
-- User authentication
-- Managing user connections (alliances instead of friends)
-- Posting and commenting functionality
-- Real-time updates on the front end
-
-The medieval theme adds a creative twist—forge alliances, post on fellow users' pages, and engage in lively courtly banter.
+ - **Focus on Learning:** Coming from limited JavaScript and React experience, we dove right in to learn how to build a front end using React components, state management, and basic integration with a backend API.
+ - **Team Collaboration:** Working in small groups strengthened our communication, version control, and agile practices.
+ - **Medieval Twist:** We gave our social network a medieval flair—featuring “alliances” (friends) and thematic design elements—to keep the project engaging while we refined our new skills.
 
 ## Features
 - **User Registration and Authentication:** Users can sign up and log in securely.
